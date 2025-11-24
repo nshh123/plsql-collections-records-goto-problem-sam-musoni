@@ -1,6 +1,7 @@
 # PL/SQL Collections, Records & GOTO Demonstration
 - Name: Musoni Nshuti Sam
 - ID: 28857
+
 This repository demonstrates how PL/SQL **Collections**, **Records**, and **GOTO statements** can be used together to solve a real problem.
 
 ## Problem Summary
@@ -16,9 +17,9 @@ However:
 - If a negative sales value is encountered, the program should **jump** to an error handler using `GOTO`.
 
 The solution uses:
-✔ PL/SQL **records** to store employee rows  
-✔ **Nested tables** collection to process rows in memory  
-✔ **GOTO** statement for error handling flow  
+- PL/SQL **records** to store employee rows  
+- **Nested tables** collection to process rows in memory  
+- **GOTO** statement for error handling flow  
 
 ## How to Run
 
