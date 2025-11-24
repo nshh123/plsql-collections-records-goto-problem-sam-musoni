@@ -26,7 +26,7 @@ The solution uses:
 1. Run [schema.sql](src/01-schema.sql)
 2. Run [sample_data.sql](src/02-sample_data.sql)
 3. Run [solve_problem.sql](src/03-solve_problem.sql)
-4. Run [run_demo.sql](src/04-run_demo.sql) to execute the packaged procedure
+4. Run [run_demo.sql](src/04-run_demo.sql) to execute the procedure
 
 ## Problem Description
 
