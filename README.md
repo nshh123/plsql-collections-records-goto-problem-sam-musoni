@@ -23,7 +23,7 @@ The solution uses:
 
 ## How to Run
 
-1. Run `schema.sql`
+1. Run 'schema.sql'[src/schema.sql]
 2. Run `sample_data.sql`
 3. Run `solve_problem.sql`
 4. Run `run_demo.sql` to execute the packaged procedure
