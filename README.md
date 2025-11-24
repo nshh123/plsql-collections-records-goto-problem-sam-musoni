@@ -28,7 +28,7 @@ The solution uses:
 3. Run `solve_problem.sql`
 4. Run `run_demo.sql` to execute the packaged procedure
 
-# Problem Description
+## Problem Description
 
 A company stores employee monthly sales in a table. You must write a PL/SQL program that:
 
