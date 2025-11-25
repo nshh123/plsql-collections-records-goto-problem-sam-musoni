@@ -60,7 +60,7 @@ The solution uses:
 2. Executing `sample_data.sql` [see screenshot](<screenshots/02-insert data.png>)
 3. Executing `solve_problem.sql` [see screenshot](<screenshots/03-run procedure.png>)
 
-NB: `run_demo.sql` is just a shortcut for running the procedure since I used an anonymous procedure to implement our assignment
+**NB**: `run_demo.sql` is just a shortcut for running the procedure since I used an anonymous procedure to implement our assignment
 
 
 
